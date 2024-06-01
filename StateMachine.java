@@ -20,4 +20,8 @@ public class StateMachine {
         }
         return currentState;
     }
+   
+    public void transitionTo(State newState) {
+    currentState = newState;
+    }
 }
