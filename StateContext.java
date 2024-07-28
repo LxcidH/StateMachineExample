@@ -1,3 +1,3 @@
 public class StateContext {
-    // Add shared data here, items, counts etc
+    // Add shared data here
 }
