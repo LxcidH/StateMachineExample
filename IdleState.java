@@ -13,7 +13,6 @@ public class IdleState implements State {
 
     @Override
     public void execute() {
-        System.out.println("Idling...");
         // Add idle logic here
     }
 
